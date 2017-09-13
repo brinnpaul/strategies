@@ -1,0 +1,14 @@
+*.rdb
+*.db
+*.json
+*.json_backup
+
+*/__pycache__/
+__pycache__/
+*.pyc
+
+config_local.py
+
+env/
+
+test.py
